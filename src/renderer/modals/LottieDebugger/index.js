@@ -154,6 +154,7 @@ const LottieDebugger = ({ name }: { name: string }) => {
       "openApp",
       "validate",
       "installLoading",
+      "firmwareUpdating",
     ],
     [],
   );
